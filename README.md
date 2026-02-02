@@ -38,7 +38,8 @@ This project is implemented using the MERN stack (MongoDB, Express, React, Node.
 
 - Backend: Node.js, Express  
 - Frontend: React  
-- Database: MongoDB (Mongoose)  
+- Database: MongoDB (Mongoose)
+- Media Storage: AWS S3
 - Authentication: JSON Web Tokens (JWT)  
 - Real-time & streaming tech: Nginx (RTMP module) hosted on AWS EC2 (media server for ingest/streaming and recording)
 
